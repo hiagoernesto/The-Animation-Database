@@ -1,0 +1,13 @@
+<svg width="140" height="42" viewBox="0 0 140 42" xmlns="http://www.w3.org/2000/svg">
+  <!-- 
+    Logo para TADB (The Animation Database)
+    Fonte: Poppins, Bold
+    Cores:
+    - #FFFFFF (Branco) para T, D, B
+    - #fca311 (Laranja Vibrante) para o A
+  -->
+  <defs>
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&amp;display=swap" type="text/css"/>
+  </defs>
+  <text x="0" y="35" font-family="'Poppins', sans-serif" font-size="40" font-weight="700" fill="#FFFFFF">T<tspan fill="#fca311">A</tspan>DB</text>
+</svg>

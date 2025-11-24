@@ -1,0 +1,352 @@
+[
+  {
+    "nome": "O Rei Leão",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/6ii4zEaE9lxFfu6yIYUEHrh2roE.jpg",
+    "descrição": "Um jovem leão príncipe, Simba, foge após a morte de seu pai, apenas para aprender o verdadeiro significado de responsabilidade e bravura.",
+    "ano": "1994",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-a3ae7371-39a5-4c0b-a1f2-29a70b372848"
+  },
+  {
+    "nome": "Frozen: Uma Aventura Congelante",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/hOZKUJGN0m717LRSQDxhgABqWrf.jpg",
+    "descrição": "A recém-coroada Rainha Elsa acidentalmente usa seu poder para transformar as coisas em gelo e amaldiçoa sua casa com um inverno infinito. Sua irmã Anna se junta a um homem da montanha, seu leal rena e um boneco de neve para mudar o clima.",
+    "ano": "2013",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-04c97b72-504b-47f2-9c6f-fe13d9aea82f"
+  },
+  {
+    "nome": "Os Incríveis 2",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/6et98yxnctR6uH16x3uJuIVKsPf.jpg",
+    "descrição": "A família de super-heróis Parr luta para manter um equilíbrio entre a vida normal e seus poderes, enquanto um novo vilão surge com um plano brilhante e perigoso.",
+    "ano": "2018",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-9da2c0fb-a380-4180-b67f-006fbaaa89ab"
+  },
+  {
+    "nome": "Minions",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/caq9Xi6b1sZNREfzFBO2tRIBzWn.jpg",
+    "descrição": "Os Minions, seres amarelos que existem desde o início dos tempos, procuram um mestre desprezível para servir. Eles encontram a supervilã Scarlet Overkill e seu marido Herb.",
+    "ano": "2015",
+    "link": "https://www.uphe.com/movies/minions"
+  },
+  {
+    "nome": "Toy Story 3",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/HihMWEvIZrjZL0m6aouMcIfZxI.jpg",
+    "descrição": "Os brinquedos são erroneamente entregues a uma creche em vez do sótão antes de Andy ir para a faculdade, e Woody precisa convencer os outros brinquedos de que eles não foram abandonados.",
+    "ano": "2010",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-95e7b2ce-5f45-4923-976d-b7e9968a7357"
+  },
+  {
+    "nome": "Procurando Nemo",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/djbivExXSZb0sTO8uYaaQC5vMRM.jpg",
+    "descrição": "Depois que seu filho é capturado na Grande Barreira de Corais e levado para Sydney, um peixe-palhaço tímido parte em uma jornada para trazê-lo para casa.",
+    "ano": "2003",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-37b62808-2368-4688-9410-2dcf7461e258"
+  },
+  {
+    "nome": "Shrek 2",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+    "descrição": "Shrek e Fiona viajam para o Reino de Tão Tão Longe para conhecer os pais de Fiona, mas o encontro se transforma em uma série de desventuras hilárias.",
+    "ano": "2004",
+    "link": "https://www.dreamworks.com/movies/shrek-2"
+  },
+  {
+    "nome": "Zootopia: Essa Cidade é o Bicho",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/ncqVGCX9P3EKQfsOXiB3XxQ0Dip.jpg",
+    "descrição": "Em uma cidade de animais antropomórficos, uma coelha policial novata e uma raposa vigarista devem trabalhar juntas para descobrir uma conspiração.",
+    "ano": "2016",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-ee6e9e33-4b25-443f-8431-9c6eeeca0dc2"
+  },
+  {
+    "nome": "Divertida Mente",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg",
+    "descrição": "Depois que a jovem Riley é desenraizada para uma nova cidade, suas cinco emoções - Alegria, Medo, Raiva, Nojinho e Tristeza - entram em conflito sobre como navegar em uma nova vida.",
+    "ano": "2015",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-d4b87168-7d0b-49bc-b138-457ab7723feb"
+  },
+  {
+    "nome": "Viva: A Vida é uma Festa",
+    "descrição": "O aspirante a músico Miguel, confrontado com a proibição ancestral de música de sua família, entra na Terra dos Mortos para encontrar seu tataravô, um cantor lendário.",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+    "ano": "2017",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-ce1ccdca-f468-4960-b67c-026b01ba42ab"
+  },
+  {
+    "nome": "Meu Malvado Favorito",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/rYZzutMXxvirK9gK01iLo3Blaj3.jpg",
+    "descrição": "Um supervilão planeja o maior roubo da história: roubar a Lua. Seus planos são interrompidos por três meninas órfãs que veem nele um pai em potencial.",
+    "ano": "2010",
+    "link": "https://www.uphe.com/movies/despicable-me"
+  },
+  {
+    "nome": "Moana: Um Mar de Aventuras",
+    "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/4rxEeTzN1oZPJo1GBoPOnA3NeJv.jpg",
+    "descrição": "Na Polinésia antiga, quando uma terrível maldição incorrida pelo semideus Maui atinge a ilha de uma chefe impetuosa, ela responde ao chamado do Oceano para salvar seu povo.",
+    "ano": "2016",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-e8896bfa-1052-41f7-ae2e-00255d77cf05"
+  },
+  {
+    "nome": "Up: Altas Aventuras",
+    "imagem": "https://image.tmdb.org/t/p/w1280/oo5gvGDIiPwbXc3R0snZIuOc517.jpg",
+    "descrição": "Carl Fredricksen, um vendedor de balões de 78 anos, realiza seu sonho de uma grande aventura ao amarrar milhares de balões em sua casa e voar para a América do Sul, levando um jovem explorador como passageiro acidental.",
+    "ano": "2009",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-f820c0a3-e646-4b75-8dd1-87f6d776c32b"
+  },
+  {
+    "nome": "WALL-E",
+    "imagem": "https://image.tmdb.org/t/p/w1280/qNiwJPVCO4cgiM8LVtxwPV2HxHS.jpg",
+    "descrição": "Em um futuro distante, um pequeno robô coletor de lixo embarca inadvertidamente em uma jornada espacial que decidirá o destino da humanidade.",
+    "ano": "2008",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-280395a4-d5ef-4dd0-bd09-d91c31593d3d"
+  },
+  {
+    "nome": "Ratatouille",
+    "imagem": "https://image.tmdb.org/t/p/w1280/41Co0TRUJNyvjr2vHBEcAKAEFpX.jpg",
+    "descrição": "Um rato que sabe cozinhar faz uma aliança incomum com um jovem ajudante de cozinha em um famoso restaurante parisiense.",
+    "ano": "2007",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-ab7c4e29-04f1-46dd-931a-d43be1ce0f8c"
+  },
+  {
+    "nome": "A Viagem de Chihiro",
+    "imagem": "https://image.tmdb.org/t/p/w1280/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg",
+    "descrição": "Durante a mudança de sua família para o subúrbio, uma menina de 10 anos vagueia por um mundo governado por deuses, bruxas e espíritos, onde os humanos são transformados em bestas.",
+    "ano": "2001",
+    "link": "https://www.ghibli.jp/works/chihiro/"
+  },
+  {
+    "nome": "Homem-Aranha no Aranhaverso",
+    "imagem": "https://image.tmdb.org/t/p/w1280/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg",
+    "descrição": "O adolescente Miles Morales se torna o Homem-Aranha de sua realidade, cruzando seu caminho com cinco contrapartes de outras dimensões para parar uma ameaça a todas as realidades.",
+    "ano": "2018",
+    "link": "https://www.sonypictures.com/movies/spidermanintothespiderverse"
+  },
+  {
+    "nome": "Kung Fu Panda",
+    "imagem": "https://image.tmdb.org/t/p/w1280/1YMs3zCt5kICK28RvVgDL1UUtkA.jpg",
+    "descrição": "O entusiasta de kung fu, Po, um panda desajeitado, é escolhido como o lendário Guerreiro Dragão. Agora ele deve defender o Vale da Paz do malvado leopardo da neve, Tai Lung.",
+    "ano": "2008",
+    "link": "https://www.dreamworks.com/movies/kung-fu-panda"
+  },
+  {
+    "nome": "Como Treinar o Seu Dragão",
+    "imagem": "https://image.tmdb.org/t/p/w1280/spZbO7Ss6U9W5zSHjtH6FvXvCF7.jpg",
+    "descrição": "Um jovem Viking que aspira a caçar dragões se torna o amigo improvável de um jovem dragão, e aprende que pode haver mais nessas criaturas do que ele imaginava.",
+    "ano": "2010",
+    "link": "https://www.dreamworks.com/movies/how-to-train-your-dragon"
+  },
+  {
+    "nome": "Shrek",
+    "imagem": "https://image.tmdb.org/t/p/w1280/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "descrição": "Um ogro mal-humorado, para recuperar seu pântano, faz um acordo com um lorde e parte em uma missão para resgatar uma princesa.",
+    "ano": "2001",
+    "link": "https://www.dreamworks.com/movies/shrek"
+  },
+  {
+    "nome": "A Era do Gelo",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/dlqC2gJs02gc23XvyOjoz52ToRI.jpg",
+    "descrição": "Um mamute, um bicho-preguiça e um tigre-dentes-de-sabre se unem para devolver um bebê humano à sua tribo.",
+    "ano": "2002",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-e570fab3-1025-4f24-a6b1-a8eb0b1f1d76"
+  },
+  {
+    "nome": "Madagascar",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/A3xzOyFlWxoGFPG4aUGX8zMS4OA.jpg",
+    "descrição": "Um grupo de animais do zoológico do Central Park se encontra perdido na ilha de Madagascar e deve aprender a sobreviver na selva.",
+    "ano": "2005",
+    "link": "https://www.dreamworks.com/movies/madagascar"
+  },
+  {
+    "nome": "Monstros S.A.",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/5p6cdAeUevsLOX0oI1T4JIul4QO.jpg",
+    "descrição": "Para gerar energia para sua cidade, monstros precisam assustar crianças. No entanto, as coisas se complicam quando uma criança entra em seu mundo.",
+    "ano": "2001",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-3c90b85f-ba5e-4351-be87-e625d5706952"
+  },
+  {
+    "nome": "Carros",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/d3a9nafpB6rUWckVptwpTJ0Sy0l.jpg",
+    "descrição": "Um carro de corrida chamado Relâmpago McQueen se perde na cidade de Radiator Springs, onde aprende sobre amizade, família e as coisas que realmente importam na vida.",
+    "ano": "2006",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-9c1b0ec2-2e4e-4717-89fb-bdf3a45523df"
+  },
+  {
+    "nome": "O Estranho Mundo de Jack",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/g6zcll9bcAmoVNiMxt4wmVwTl5f.jpg",
+    "descrição": "Jack Skellington, o rei da Cidade do Halloween, descobre a Cidade do Natal, mas sua tentativa de trazer o Natal para casa causa confusão.",
+    "ano": "1993",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-4aa190d7-6010-410d-b567-b8be3296b521"
+  },
+  {
+    "nome": "A Bela e a Fera",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/is4c02QuP70BCVLp27SSlDeByoe.jpg",
+    "descrição": "Uma jovem donzela assume o lugar de seu pai como prisioneira de uma Fera amaldiçoada, e aprende a ver além de sua aparência.",
+    "ano": "1991",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-97babebc-7013-455a-b377-aa3d7a6e79c1"
+  },
+  {
+    "nome": "Aladdin",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/qYB8MwE6AgLFe5ruBUmPA0RWRPY.jpg",
+    "descrição": "Um jovem de rua de bom coração e um grão-vizir faminto por poder disputam uma lâmpada mágica que pode realizar seus desejos mais profundos.",
+    "ano": "1992",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-bfad6284-a0aa-4ae1-8469-dc1653121dbb"
+  },
+  {
+    "nome": "Mulan",
+    "imagem": "https://media.themoviedb.org/t/p/w188_and_h282_face/bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg",
+    "descrição": "Para salvar seu pai idoso de servir no exército, uma jovem se disfarça de homem para tomar seu lugar.",
+    "ano": "1998",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-a89be7cf-d4a6-41e8-9e85-2040be26f401"
+  },
+  {
+    "nome": "O Castelo Animado",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/1hTfaEWktMJPxCk5nZNtK7F86C9.jpg",
+    "descrição": "Quando uma jovem insegura é amaldiçoada com o corpo de uma velha por uma bruxa, sua única chance de quebrar o feitiço está em um jovem mago egocêntrico e seu castelo ambulante.",
+    "ano": "2004",
+    "link": "https://www.ghibli.jp/works/howl/"
+  },
+  {
+    "nome": "Princesa Mononoke",
+    "imagem": "https://media.themoviedb.org/t/p/w188_and_h282_face/7EadOwHmyQgOnlghRiWBygNtnjl.jpg",
+    "descrição": "Em uma jornada para encontrar a cura para uma maldição, o príncipe Ashitaka se encontra no meio de uma guerra entre os deuses da floresta e uma colônia de mineração.",
+    "ano": "1997",
+    "link": "https://www.ghibli.jp/works/mononoke/"
+  },
+  {
+    "nome": "Meu Amigo Totoro",
+    "imagem": "https://media.themoviedb.org/t/p/w188_and_h282_face/23KKTxDg6rxZVc66bloQQdPSr29.jpg",
+    "descrição": "Quando duas meninas se mudam para o campo para ficar perto de sua mãe doente, elas têm aventuras com os maravilhosos espíritos da floresta que vivem nas proximidades.",
+    "ano": "1988",
+    "link": "https://www.ghibli.jp/works/totoro/"
+  },
+  {
+    "nome": "Akira",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg",
+    "descrição": "Um projeto militar secreto coloca em perigo Neo-Tóquio quando transforma um membro de uma gangue de motoqueiros em um psicopata com poderes psíquicos que só pode ser parado por dois adolescentes e um grupo de psíquicos.",
+    "ano": "1988",
+    "link": "https://www.imdb.com/pt/title/tt0094625/"
+  },
+  {
+    "nome": "Ghost in the Shell",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/4YgDy47HKxcSwUPQWrg0J39lEZA.jpg",
+    "descrição": "Uma policial ciborgue e seu parceiro caçam um hacker misterioso e poderoso chamado Mestre dos Fantoches.",
+    "ano": "1995",
+    "link": "https://www.imdb.com/pt/title/tt0113568/"
+  },
+  {
+    "nome": "Coraline e o Mundo Secreto",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg",
+    "descrição": "Uma menina aventureira encontra uma versão idealizada de sua vida frustrante em outro mundo, mas logo descobre que tem segredos sinistros.",
+    "ano": "2009",
+    "link": "https://www.laika.com/our-films/coraline"
+  },
+  {
+    "nome": "O Gigante de Ferro",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/z3SdBaZJq1L5rkfzJoDAGal3Vjx.jpg",
+    "descrição": "Um menino faz amizade com um robô gigante do espaço que um agente do governo paranoico quer destruir.",
+    "ano": "1999",
+    "link": "https://www.warnerbros.com/movies/iron-giant"
+  },
+  {
+    "nome": "Lilo & Stitch",
+    "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/89/85/20119071.jpg",
+    "descrição": "Uma jovem garota havaiana adota um 'cachorro' incomum que na verdade é um experimento genético fugitivo de outro planeta.",
+    "ano": "2002",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-e291d4ea-cd86-4eb2-9f39-20d2b75165ee"
+  },
+  {
+    "nome": "A Nova Onda do Imperador",
+    "imagem": "https://media.themoviedb.org/t/p/w188_and_h282_face/iN4nsXWzASSjYUIHUkwSJQ6b2UW.jpg",
+    "descrição": "O arrogante Imperador Kuzco é transformado em uma lhama por sua ex-conselheira e deve reconquistar seu trono com a ajuda de um gentil camponês.",
+    "ano": "2000",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-c749b7a9-21dd-41e3-80bc-bf5158177010"
+  },
+  {
+    "nome": "Hércules",
+    "imagem": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/19775-cartaz.jpg",
+    "descrição": "O filho dos deuses gregos Zeus e Hera é despojado de sua imortalidade quando bebê e deve se tornar um verdadeiro herói para recuperá-la.",
+    "ano": "1997",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-ae19dd2f-a945-442b-a18e-d57fa8f5091f"
+  },
+  {
+    "nome": "O Corcunda de Notre Dame",
+    "imagem": "https://media.themoviedb.org/t/p/w188_and_h282_face/9bhwBtct6jc3Nzqtx6j3xlZXAza.jpg",
+    "descrição": "Um sineiro deformado deve afirmar sua independência de um ministro do governo cruel e manipulador para ajudar sua amiga, a cigana Esmeralda.",
+    "ano": "1996",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-487dcb63-61e4-49ba-9f44-ce0aab176ab9"
+  },
+  {
+    "nome": "Pocahontas",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/q5MYFXVy8UQ1ds76fdJs6AJbMzv.jpg",
+    "descrição": "Uma jovem nativa americana se apaixona por um capitão inglês, e deve evitar que a guerra irrompa entre seus povos.",
+    "ano": "1995",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-87056d92-21b6-4e70-a0d4-a959b6c60599"
+  },
+  {
+    "nome": "A Pequena Sereia",
+    "imagem": "https://image.tmdb.org/t/p/original/5SLa56lfNinhVgqpMIHvsOKG775.jpg",
+    "descrição": "Uma princesa sereia faz um pacto faustiano com uma bruxa do mar para se tornar humana e conquistar o amor de um príncipe.",
+    "ano": "1989",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-f7643452-fe64-4b05-8f09-c8bea9b2dd60"
+  },
+  {
+    "nome": "Branca de Neve e os Sete Anões",
+    "imagem": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/8852-cartaz.jpg",
+    "descrição": "Exilada na floresta por sua madrasta ciumenta, uma jovem princesa é resgatada por sete anões mineiros que a acolhem.",
+    "ano": "1937",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-f51f7e6c-2d9a-443c-9831-f3cc22e822b4"
+  },
+  {
+    "nome": "Pinóquio",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/vu1nTbBoQPCtdvrUOe6UFxa8wIr.jpg",
+    "descrição": "Um boneco de madeira vivo, com a ajuda de um grilo como sua consciência, deve provar que é digno de se tornar um menino de verdade.",
+    "ano": "1940",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-bfe9c61c-f7f3-4e39-94bb-376bf2162c28"
+  },
+  {
+    "nome": "Fantasia",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/hKg8Zpm4fMOy7KmrBHdo4YCT5dS.jpg",
+    "descrição": "Uma coleção de interpretações animadas de grandes obras da música clássica ocidental.",
+    "ano": "1940",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-f08e9233-5325-45ac-a070-134f9725f1fd"
+  },
+  {
+    "nome": "Bambi",
+    "imagem": "https://image.tmdb.org/t/p/original/dpgRyhfvS2ieJbS50z7vDrHrTXb.jpg",
+    "descrição": "A história de um jovem cervo que cresce na floresta após a morte de sua mãe nas mãos de caçadores.",
+    "ano": "1942",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-c5350c37-0c8f-4094-8e63-72bfef0a0b08"
+  },
+  {
+    "nome": "Cinderela",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/Acj5mmoZQ5lKLNpU2y0XQCt5rNb.jpg",
+    "descrição": "Quando sua madrasta cruel a impede de ir ao baile real, ela recebe ajuda inesperada de seus amigos ratos e de sua fada madrinha.",
+    "ano": "1950",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-f7272318-0b08-46f5-b89e-284b3e8a7234"
+  },
+  {
+    "nome": "A Dama e o Vagabundo",
+    "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/94/05/35/20299477.jpg",
+    "descrição": "A romântica aventura de uma cocker spaniel de classe alta e um vira-lata de rua.",
+    "ano": "1955",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-f8a68a49-f7c3-417d-baed-1ff7c7b862de"
+  },
+  {
+    "nome": "A Bela Adormecida",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/2MjuCYa6RkhNHmNDl4MqktxK8XH.jpg",
+    "descrição": "Uma princesa amaldiçoada por uma fada malvada a cair em um sono profundo só pode ser despertada pelo beijo do amor verdadeiro.",
+    "ano": "1959",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-2f365ad5-9a65-410e-b750-947acc66d21e"
+  },
+  {
+    "nome": "Mogli: O Menino Lobo",
+    "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_face/ikqAxUAEH4BloLjVgR8MWNX3qtU.jpg",
+    "descrição": "Criado por lobos na selva, o menino Mogli é convencido por seus amigos, um urso e uma pantera, a deixar a selva e voltar para a civilização humana.",
+    "ano": "1967",
+    "link": "https://www.disneyplus.com/pt-br/browse/entity-9a969820-2c25-4cf9-a461-ed84696cdf19"
+  },
+  {
+    "nome": "O Gato de Botas",
+    "imagem": "https://image.tmdb.org/t/p/original/tyAAZ5JP2OsNMYNQKCwt2I95I3L.jpg",
+    "descrição": "Uma aventura sobre o Gato de Botas em sua jornada para roubar os feijões mágicos do infame casal Jack e Jill.",
+    "ano": "2011",
+    "link": "https://www.dreamworks.com/movies/puss-in-boots"
+  }
+]

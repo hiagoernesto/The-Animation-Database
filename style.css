@@ -1,0 +1,164 @@
+/* Reset básico e configurações globais */
+:root {
+    --cor-primaria: #141414;
+    --cor-secundaria: #1F1F1F;
+    --cor-texto-principal: #FFFFFF;
+    --cor-texto-secundario: #AFAFAF;
+    --cor-destaque: #E50914;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--cor-primaria);
+    color: var(--cor-texto-principal);
+}
+
+/* Cabeçalho */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: var(--cor-secundaria);
+    border-bottom: 1px solid #333;
+}
+
+header h1 {
+    color: var(--cor-destaque);
+    font-weight: 700;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+.search-container input {
+    padding: 10px 15px;
+    border-radius: 5px 0 0 5px;
+    border: none;
+    outline: none;
+    background-color: #333;
+    color: var(--cor-texto-principal);
+    width: 300px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.search-container input::placeholder {
+    color: var(--cor-texto-secundario);
+}
+
+.search-container button {
+    padding: 10px 15px;
+    border: none;
+    background-color: var(--cor-destaque);
+    color: var(--cor-texto-principal);
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+    transition: background-color 0.3s ease;
+}
+
+.search-container button:hover {
+    background-color: #f6313b;
+}
+
+/* Container dos Cards */
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 30px;
+    padding: 40px 50px;
+}
+
+.card-container p {
+    color: var(--cor-texto-secundario);
+}
+
+/* Estilo do Card */
+.card {
+    background-color: var(--cor-secundaria);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
+}
+
+.card img {
+    width: 100%;
+    height: 420px;
+    object-fit: cover;
+    display: block;
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.card-content h2 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.card-content p {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.saiba-mais-btn {
+    display: inline-block;
+    background-color: var(--cor-destaque);
+    color: var(--cor-texto-principal);
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+}
+
+.saiba-mais-btn:hover {
+    background-color: #f6313b;
+}
+
+.saiba-mais-btn i {
+    margin-right: 5px;
+}
+
+/* Rodapé */
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: var(--cor-secundaria);
+    border-top: 1px solid #333;
+    margin-top: 40px;
+}
+
+.footer-links li {
+    list-style: none;
+}
+
+.footer-links a {
+    color: var(--cor-texto-secundario);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: var(--cor-destaque);
+}
+
+.footer-links i {
+    font-size: 1.8rem;
+}
