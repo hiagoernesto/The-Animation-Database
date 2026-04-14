@@ -6,5 +6,5 @@
 * JavaScript
 
 ## Screenshots
-![Screenshot da tela inicial do The Animation Database](https://imgur.com/NjVuNup)
+![Screenshot da tela inicial do The Animation Database](https://i.imgur.com/NjVuNup.png)
 
